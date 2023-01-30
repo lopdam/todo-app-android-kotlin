@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDo</string>
+
+    <string-array name="spinner_status">
+        <item>All</item>
+        <item>To Do</item>
+        <item>Done</item>
+    </string-array>
+</resources>
